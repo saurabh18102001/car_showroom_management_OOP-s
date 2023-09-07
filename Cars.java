@@ -5,10 +5,7 @@
 package carsshowroom;
 import java.util.*;
 
-/**
- *
- * @author Saurabh Pal
- */
+
 public class Cars extends Showroom implements utility {
     
     String car_name;
