@@ -5,10 +5,6 @@
 package carsshowroom;
 import java.util.*;
 
-/**
- *
- * @author Saurabh Pal
- */
 public class Employees extends Showroom implements utility {
     
     String emp_id;
