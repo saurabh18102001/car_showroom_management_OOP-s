@@ -4,10 +4,7 @@
  */
 package carsshowroom;
 import java.util.Scanner;
-/**
- *
- * @author Saurabh Pal
- */
+
 public class Showroom implements utility{                //implementing from Main.java
     
     String showroom_name;
